@@ -3,6 +3,8 @@ hack4sea
 
 hack4sea-cod
 
+get sst from https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MYD28M&year=2018
+
 Project Organization
 ------------
 
