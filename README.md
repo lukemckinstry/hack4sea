@@ -5,6 +5,9 @@ hack4sea-cod
 
 get sst from https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MYD28M&year=2018
 
+bounding box for eval area
+-73.125276,40.845996,-61.913572,46.149860
+
 Project Organization
 ------------
 
